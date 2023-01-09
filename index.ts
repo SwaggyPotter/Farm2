@@ -1,0 +1,1 @@
+let Coins:number = 0;

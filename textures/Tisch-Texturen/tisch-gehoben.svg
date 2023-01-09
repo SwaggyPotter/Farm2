@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 209.9 58.6" version="1.1" viewBox="0 0 209.9 58.6">
+<symbol id="i" viewBox="0 -24 207 24">
+			<linearGradient id="g" x1="-2846.9" x2="-2755.8" y1="-4627.6" y2="-4627.6" gradientTransform="matrix(.887 -.4619 .4619 .887 4683.9 2812.8)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#393939" stop-opacity="0" offset="0"/>
+			<stop stop-color="#858585" stop-opacity=".349" offset=".5569"/>
+			<stop stop-color="#393939" stop-opacity="0" offset=".9882"/>
+		</linearGradient>
+		<polygon points="178.5 0 207 -23.5 0 -24 31.5 0" clip-rule="evenodd" fill="url(#g)" fill-rule="evenodd"/>
+</symbol>
+<symbol id="j" viewBox="0 -24 207 24">
+			<linearGradient id="h" x1="10207" x2="10289" y1="-19349" y2="-19349" gradientTransform="matrix(-.8357 -.5491 .5491 -.8357 19329 -10542)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#393939" stop-opacity="0" offset="0"/>
+			<stop stop-color="#858585" stop-opacity=".349" offset=".5569"/>
+			<stop stop-color="#393939" stop-opacity="0" offset=".9882"/>
+		</linearGradient>
+		<polygon points="178.5 0 207 -23.5 0 -24 31.5 0" clip-rule="evenodd" fill="url(#h)" fill-rule="evenodd"/>
+</symbol>
+<symbol id="k" viewBox="0 -14.15 143 14.15">
+		<polygon points="139 -0.5 143 -14 0 -14.15 4 0" clip-rule="evenodd" fill="#141414" fill-rule="evenodd"/>
+</symbol>
+<symbol viewBox="0 -33 211 33">
+		<polygon points="181 -1 211 -33 0 -33 38 0" clip-rule="evenodd" fill-rule="evenodd"/>
+</symbol>
+<symbol id="l">
+</symbol>
+				<image transform="translate(-36 20)" width="283" height="106" xlink:href="data:image/png;base64,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">
+			</image>
+			<use transform="matrix(1 0 0 -1 34.3 66.45)" y="-14.15" width="143" height="14.15" enable-background="new" opacity=".25" xlink:href="#k"/>
+		<polygon points="182.4 27 210.9 50.5 3.9 51 35.4 27" clip-rule="evenodd" fill="#363636" fill-rule="evenodd"/>
+			<use transform="matrix(1 0 0 -1 3.8999 27)" y="-24" width="207" height="24" enable-background="new" opacity=".75" xlink:href="#j"/>
+			<use transform="matrix(1 0 0 -1 3.8999 27)" y="-24" width="207" height="24" enable-background="new" opacity=".75" xlink:href="#i"/>
+		<polygon points="171.55 55.55 161.3 77.55 51.9 78 41.4 55.5" clip-rule="evenodd" fill="#33282A" fill-rule="evenodd"/>
+		<polygon points="169.7 59.45 168.35 62.4 44.95 62.4 43.6 60" clip-rule="evenodd" fill="#261D1F" fill-rule="evenodd"/>
+		<polygon points="210.25 49.95 199.35 58.25 16.7 58.25 3.75 50.55" clip-rule="evenodd" fill="#141414" fill-rule="evenodd"/>
+		<rect x="5.35" y="49.25" width="204.6" height="2" clip-rule="evenodd" fill="#545051" fill-rule="evenodd"/>
+		<polygon points="173.25 77.95 39.25 78.05 42.5 72.05 171.6 72.25" clip-rule="evenodd" fill="#33282A" fill-rule="evenodd"/>
+		<polygon points="167.05 70.2 170.95 72.85 42.5 72.05 48.25 70.35" clip-rule="evenodd" fill="#120B0D" fill-rule="evenodd"/>
+		<polygon points="162 64.45 160.25 67.7 56.75 67.7 55.75 64.25" clip-rule="evenodd" fill-rule="evenodd"/>
+		<polygon points="159.35 64.2 157.7 66.35 58.25 66.35 57.25 64.1" clip-rule="evenodd" fill="#21191B" fill-rule="evenodd"/>
+		<polygon points="171.6 73.45 41.75 73.45 42.5 72.05 171.6 72.05" clip-rule="evenodd" fill="#4A4A4A" fill-rule="evenodd"/>
+		<path d="m156.6 75.25c3.567-0.2 8.351-0.533 14.351-1l2.3 3.7-134 0.1 2.5-4.6 0.55 0.399c0.8 0.301 2.184 0.584 4.15 0.851 6.267 0.833 17.316 1.25 33.15 1.25 18.466 0 35.383-0.067 50.75-0.2 14.77-0.167 23.52-0.333 26.25-0.5z" clip-rule="evenodd" fill="#261D1F" fill-rule="evenodd"/>
+		<polygon points="160.25 68.7 56.6 68.7 56.75 67.8 160.25 67.8" clip-rule="evenodd" fill="#3D3D3D" fill-rule="evenodd"/>
+		<polygon points="170.25 58.3 169.45 60 43.6 60 42.7 58.3" clip-rule="evenodd" fill-rule="evenodd"/>
+		<polygon points="167.5 64.55 169.8 64.7 171.8 68.95 173.55 77.9 169.3 71.95 164.55 70.25" clip-rule="evenodd" fill-rule="evenodd"/>
+		<polygon points="167.1 64.6 169.9 64.55 170.3 71.95 164.55 70.25" clip-rule="evenodd" fill="#261D1F" fill-rule="evenodd"/>
+		<polygon points="42.6 72.1 39.35 78.1 40.6 70.25 43.15 64.85 45.4 64.7 48.4 70.4" clip-rule="evenodd" fill-rule="evenodd"/>
+		<polygon points="43 64.7 45.8 64.75 48.4 70.4 42.6 72.1" clip-rule="evenodd" fill="#261D1F" fill-rule="evenodd"/>
+		<use transform="matrix(1 0 0 -1 105.6 78)" x="16383" y="16383" width="-32766" height="-32766" xlink:href="#l"/>
+</svg>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <title>Farm 2.0</title>
+</head>
+
+<body>
+    <!--Background Video-->
+    <video id="backgroundVideo" autoplay muted loop src="textures/feuerVideo.mp4"></video>
+    <!--Background Video-->
+
+    <header>
+        <!--Store-->
+        <span id="shopButton" class="material-symbols-outlined">
+            store
+        </span>
+        <span id="coinPlusMoney">
+            <span class="material-symbols-outlined">
+                paid
+            </span>
+            <span id="money">
+                0
+            </span>
+        </span>
+    </header>
+
+    <div id="storeWindow">
+        <div id="itemContainer1">
+            <img id="shopItemSonnenblume" class="shopItem" src="textures/Sonnenblume-Texturen/sonnenblume-Texture.png"
+                alt="Sonneblumen Item">
+            <img id="shopItemPinkBlume" class="shopItem" src="textures/Pink-Blume-Texturen/pinkBlumeAusschnitt.png"
+                alt="Pinke Blume">
+        </div>
+        <div id="itemContainerTable">
+        </div>
+        <div id="itemContainerTöpfe">
+        </div>
+        <div id="itemContainerHinterGründe">
+        </div>
+    </div>
+
+    <div id="gameContainer">
+        <p id="clickAnzeige">
+            +1
+        </p>
+        <img id="blume" src="" alt="">
+        <img id="topf" src="textures/Blumen-Topf/tonTopf.svg" alt="">
+        <img id="tisch" src="textures/Tisch-Texturen/holztisch-billig.svg" alt="">
+    </div>
+</body>
+<script src="index.js"></script>
+
+</html>
