@@ -158,10 +158,10 @@
 
     #itemContainer1 {
         margin-top: 15vh;
-        width: 100%;
+        max-width: 100%;
         display: flex;
-        justify-content: space-around;
-        align-items: center;
+        flex-wrap: wrap;
+        
     }
 
     .notavailable{
@@ -173,13 +173,28 @@
     /*Item Liste*/
     .shopItem {
         width: 100px;
-        background-color: rgb(53, 207, 235);
+        background-color: rgb(83, 84, 145);
         border-radius: 20px;
     }
 
     .shopItem:active {
         width: 100px;
         background-color: rgb(141, 221, 235);
+        border-radius: 20px;
+    }
+
+    .shopItemContainer{
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 15px;
+    }
+
+    .trennLinie{
+        height: 10px;
+        background-color: aquamarine;
+        margin: 25px;
         border-radius: 20px;
     }
 }
